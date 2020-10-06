@@ -11,4 +11,4 @@ Solutions to LeetCode problems, solved sequentially and hopefully on a regular b
 * Each folder may contain more than one solution
   * Multiple solutions accepted if they are in different languages, or have different runtimes/logic
   
-**Happy Coding** :cherry-blossom:
+**Happy Coding** :cherry_blossom: :seedling:
